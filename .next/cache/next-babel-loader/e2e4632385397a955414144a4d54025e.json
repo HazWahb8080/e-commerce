@@ -1,0 +1,1 @@
+{"ast":null,"code":"const DENOMINATION = '$';\nexport default DENOMINATION;","map":{"version":3,"sources":["C:/Users/Lenovo/Desktop/jamstack-ecommerce/utils/currencyProvider.js"],"names":["DENOMINATION"],"mappings":"AAAA,MAAMA,YAAY,GAAG,GAArB;AAEA,eAAeA,YAAf","sourcesContent":["const DENOMINATION = '$'\r\n\r\nexport default DENOMINATION"]},"metadata":{},"sourceType":"module"}
